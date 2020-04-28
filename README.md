@@ -1,7 +1,7 @@
 
 
-# web-335
-NoSQL course
+# web-420
+RESTFul APIs
 
 
 # contributors
